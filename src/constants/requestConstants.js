@@ -1,5 +1,5 @@
 const SEARCHPARAMS = {
-    searchText: '63199073',
+    searchText: '',
     fq: [],
     fl: '*',
     mm: '100%',

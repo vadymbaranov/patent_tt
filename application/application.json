@@ -1,0 +1,173 @@
+[
+  {
+    "corrAddrCountryName": "UNITED STATES",
+    "applId": "63199073",
+    "applicants": [
+      {
+        "nameLineOne": "Patent Draftr, LLC",
+        "nameLineTwo": " ",
+        "suffix": "",
+        "streetOne": "16192 Coastal Highway",
+        "streetTwo": "",
+        "city": "Lewes, ",
+        "geoCode": "DE",
+        "country": "(US)",
+        "rankNo": "1"
+      }
+    ],
+    "applicantsFacet": "{||Patent Draftr, LLC||16192 Coastal Highway||Lewes|DE|US|ORG|1}",
+    "appFilingDate": "2020-12-04T00:00:00Z",
+    "publicInd": "Y",
+    "APP_IND": "5",
+    "inventorName": "Shawn  LILLEMO",
+    "inventorNameFacet": "Shawn  LILLEMO",
+    "corrAddrGeoRegionCode": "VA",
+    "appLocation": "ELECTRONIC",
+    "id": "63199073",
+    "applIdStr": "63199073",
+    "appl_id_txt": "63199073",
+    "LAST_MOD_TS": "2023-11-09T05:41:00Z",
+    "transactions": [
+      {
+        "recordDate": "2021-12-05 00:00:00",
+        "code": "EXPRO",
+        "description": "EXPIRED PROVISIONAL"
+      },
+      {
+        "recordDate": "2020-12-08 00:00:00",
+        "code": "EML_NTR",
+        "description": "Email Notification"
+      },
+      {
+        "recordDate": "2020-12-08 00:00:00",
+        "code": "CCRDY",
+        "description": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "recordDate": "2020-12-07 00:00:00",
+        "code": "OIPE",
+        "description": "Application Dispatched from OIPE"
+      },
+      {
+        "recordDate": "2020-12-08 00:00:00",
+        "code": "COMP",
+        "description": "Application Is Now Complete"
+      },
+      {
+        "recordDate": "2020-12-08 00:00:00",
+        "code": "FLRCPT.O",
+        "description": "Filing Receipt"
+      },
+      {
+        "recordDate": "2020-12-04 00:00:00",
+        "code": "SREXR141",
+        "description": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "recordDate": "2020-12-04 00:00:00",
+        "code": "APPERMS",
+        "description": "Applicants have given acceptable permission for participating foreign "
+      },
+      {
+        "recordDate": "2020-12-04 00:00:00",
+        "code": "BIG.",
+        "description": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "recordDate": "2020-12-04 00:00:00",
+        "code": "IEXX",
+        "description": "Initial Exam Team nn"
+      }
+    ],
+    "LAST_INSERT_TIME": "2023-11-09T14:10:03Z",
+    "appStatus": "Provisional Application Expired",
+    "appStatusFacet": "Provisional Application Expired",
+    "appStatus_txt": "Provisional Application Expired",
+    "corrAddrStreetLineTwo": "SUITE 600",
+    "patentTitle": "TEXT GENERATION FOR PATENT APPLICATIONS USING NATURAL LANGUAGE MODELING AND PROGRAMMABLE TEMPLATING LANGUAGE",
+    "appStatusDate": "2021-12-05T00:00:00Z",
+    "appAttrDockNumber": "0004-0007PRO",
+    "inventors": [
+      {
+        "nameLineOne": "LILLEMO",
+        "nameLineTwo": "Shawn ",
+        "suffix": "",
+        "streetOne": "",
+        "streetTwo": "",
+        "city": "Haymarket, ",
+        "geoCode": "VA",
+        "country": "(US)",
+        "rankNo": "1"
+      },
+      {
+        "nameLineOne": "BALABAN",
+        "nameLineTwo": "Andrii ",
+        "suffix": "",
+        "streetOne": "",
+        "streetTwo": "",
+        "city": "Mykolaiv, ",
+        "geoCode": "",
+        "country": "(UA)",
+        "rankNo": "2"
+      },
+      {
+        "nameLineOne": "SABODASHKO",
+        "nameLineTwo": "Dymtro ",
+        "suffix": "",
+        "streetOne": "",
+        "streetTwo": "",
+        "city": "L'viv, ",
+        "geoCode": "",
+        "country": "(UA)",
+        "rankNo": "3"
+      }
+    ],
+    "inventorsFacet": "{Shawn||LILLEMO||||Haymarket|VA|US|IND|1},{Andrii||BALABAN||||Mykolaiv||UA|IND|2},{Dymtro||SABODASHKO||||L'viv||UA|IND|3}",
+    "corrAddrStreetLineOne": "11350 Random Hills Road",
+    "firstInventorFile": "Other",
+    "childContinuity": [
+      {
+        "claimApplicationNumberText": "17456737",
+        "applicationNumberText": "63199073",
+        "filingDate": "11-29-2021",
+        "aiaIndicator": "",
+        "patentNumberText": "",
+        "applicationStatus": "Pending",
+        "applicationStatusDescription": "claims the benefit of"
+      }
+    ],
+    "appType": "Provisional",
+    "appTypeFacet": "Provisional",
+    "corrAddrPostalCode": "22030",
+    "appCustNumber": "26615",
+    "corrAddrNameLineOne": "HARRITY & HARRITY, LLP",
+    "cmsData": [
+      "{63199073|2020-12-08 08:23:34|PROSECUTION|Filing Receipt|APP.FILE.REC|3|KIEVV7KRLDFLYX4},{63199073|2020-12-04 12:41:20|PROSECUTION|Claims|CLM|5|KIAVVQF8LDFLYX5},{63199073|2020-12-04 12:41:20|PROSECUTION|Electronic Filing System(EFS) Acknowledgment Receipt|N417|3|KIAVVQF2LDFLYX5},{63199073|2020-12-04 12:41:20|PROSECUTION|Drawings-only black and white line drawings|DRW|3|KIAVVQF5LDFLYX5},{63199073|2020-12-04 12:41:20|PROSECUTION|Appendix to the specification|APPENDIX|4|KIAVVQFBLDFLYX5},{63199073|2020-12-04 12:41:20|PROSECUTION|Appendix to the specification|APPENDIX|2|KIAVVQF4LDFLYX5},{63199073|2020-12-04 12:41:20|PROSECUTION|Electronic Fee Payment|N417.PYMT|2|KIAVVQF6LDFLYX5},{63199073|2020-12-04 12:41:20|PROSECUTION|Miscellaneous Incoming Letter|LET.|1|KIAVVQF3LDFLYX5},{63199073|2020-12-04 12:41:20|PROSECUTION|Application Data Sheet|ADS|9|KIAVVQFALDFLYX5},{63199073|2020-12-04 12:41:20|PROSECUTION|Specification|SPEC|13|KIAVVQF7LDFLYX5}"
+    ],
+    "firstNamedApplicant": [
+      "  Patent Draftr, LLC"
+    ],
+    "firstNamedApplicantFacet": "  Patent Draftr, LLC",
+    "attrnyAddr": [
+      {
+        "applicationId": null,
+        "registrationNo": "71371",
+        "fullName": "Glaser, Peter  ",
+        "phoneNum": "571-432-0800",
+        "regStatus": "ACTIVE"
+      }
+    ],
+    "corrAddrCustNo": "26615",
+    "corrAddrCountryCd": "US",
+    "corrAddrCity": "FAIRFAX",
+    "appEntityStatus": "UNDISCOUNTED",
+    "appConfrNumber": "5433",
+    "lastUpdatedTimestamp": "2023-11-10T08:33:30.400Z",
+    "appAttrDockNumberFacet": "0004-0007PRO",
+    "appEntityStatusFacet": "UNDISCOUNTED",
+    "appCustNumberFacet": "26615",
+    "_version_": 1782165241191202800,
+    "firstInventorFileFacet": "Other",
+    "appLocationFacet": "ELECTRONIC"
+  }
+]

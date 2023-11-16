@@ -1,0 +1,72 @@
+[
+  {
+    "name": "KIAVVQF5LDFLYX5",
+    "size": "36.39kB",
+    "description": "Drawings-only black and white line drawings",
+    "docCode": "DRW",
+    "pageQuantity": 3
+  },
+  {
+    "name": "KIEVV7KRLDFLYX4",
+    "size": "164.66kB",
+    "description": "Filing Receipt",
+    "docCode": "APP.FILE.REC",
+    "pageQuantity": 3
+  },
+  {
+    "name": "KIAVVQF4LDFLYX5",
+    "size": "19.01kB",
+    "description": "Appendix to the specification",
+    "docCode": "APPENDIX",
+    "pageQuantity": 2
+  },
+  {
+    "name": "KIAVVQF6LDFLYX5",
+    "size": "78.50kB",
+    "description": "Electronic Fee Payment",
+    "docCode": "N417.PYMT",
+    "pageQuantity": 2
+  },
+  {
+    "name": "KIAVVQF3LDFLYX5",
+    "size": "19.70kB",
+    "description": "Miscellaneous Incoming Letter",
+    "docCode": "LET.",
+    "pageQuantity": 1
+  },
+  {
+    "name": "KIAVVQFALDFLYX5",
+    "size": "294.93kB",
+    "description": "Application Data Sheet",
+    "docCode": "ADS",
+    "pageQuantity": 9
+  },
+  {
+    "name": "KIAVVQF2LDFLYX5",
+    "size": "179.76kB",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "docCode": "N417",
+    "pageQuantity": 3
+  },
+  {
+    "name": "KIAVVQF8LDFLYX5",
+    "size": "112.76kB",
+    "description": "Claims",
+    "docCode": "CLM",
+    "pageQuantity": 5
+  },
+  {
+    "name": "KIAVVQFBLDFLYX5",
+    "size": "51.34kB",
+    "description": "Appendix to the specification",
+    "docCode": "APPENDIX",
+    "pageQuantity": 4
+  },
+  {
+    "name": "KIAVVQF7LDFLYX5",
+    "size": "530.99kB",
+    "description": "Specification",
+    "docCode": "SPEC",
+    "pageQuantity": 13
+  }
+]

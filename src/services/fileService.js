@@ -12,7 +12,6 @@ async function createDirectory(dir) {
         await fsPromises.access(resolvedDir);
         console.log(`Directory ${resolvedDir} exists`);
     } catch (err) {
-        console.error(err);
         console.log(`Directory ${resolvedDir} not found. Creating one now...`);
         try {
             await fsPromises.mkdir(resolvedDir, { recursive: true });

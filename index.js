@@ -59,7 +59,7 @@ async function main(applicationNumber) {
 
                 return fileInfo.push({
                     name: doc?.documentIdentifier,
-                    size: documentSize.toFixed(2),
+                    size: `${documentSize.toFixed(2)}kB`,
                     description: doc?.documentDescription,
                     docCode: doc?.documentCode,
                     pageQuantity: doc?.pageCount,

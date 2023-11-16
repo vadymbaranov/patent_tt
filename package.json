@@ -1,0 +1,26 @@
+{
+  "name": "patent_tt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadymbaranov/patent_tt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadymbaranov/patent_tt/issues"
+  },
+  "homepage": "https://github.com/vadymbaranov/patent_tt#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "pdf-parse": "^1.1.1",
+    "pdfreader": "^3.0.2"
+  }
+}

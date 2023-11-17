@@ -1,7 +1,6 @@
 const fsPromises = require('node:fs').promises;
 const fs = require('node:fs');
 const path = require('node:path');
-const PdfParser = require('pdf-parse');
 const { BASEDIR, FOLDERS } = require('../constants/folderConstants');
 const { getDocument } = require('./requestService');
 
